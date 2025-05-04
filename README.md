@@ -55,10 +55,10 @@ This project is a desktop-based facial recognition authentication system develop
 > Below are some screenshots of the application in action.
 
 ### 🔐 Login Tab  
-![Login Tab](screenshots/login.png)
+![Login Tab](screenshots/login.jpg)
 
 ### 📝 Register Tab  
-![Register Tab](screenshots/register.png)
+![Register Tab](screenshots/register.jpg)
 
 
 
