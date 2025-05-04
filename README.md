@@ -66,7 +66,7 @@ This project is a desktop-based facial recognition authentication system develop
 
       📥 https://github.com/davisking/dlib-models
       
-      Place the file in the root project directory.
+  Place the file in the root project directory.
 - Make sure you're in a well-lit environment.
 
 - Only one person should be in the camera frame during registration, login, or logout.
