@@ -60,5 +60,21 @@ This project is a desktop-based facial recognition authentication system develop
 ### 📝 Register Tab  
 ![Register Tab](screenshots/register.jpg)
 
+-------
+💡 Usage Tips
+- Download the file shape_predictor_68_face_landmarks.dat from:
+
+      📥 https://github.com/davisking/dlib-models
+      
+      Place the file in the root project directory.
+- Make sure you're in a well-lit environment.
+
+- Only one person should be in the camera frame during registration, login, or logout.
+
+- Blink during login and logout to pass the liveness detection test.
+
+- Use the Register tab to enroll new users with a face and password.
+
+
 
 
